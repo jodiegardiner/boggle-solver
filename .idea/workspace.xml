@@ -13,16 +13,19 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/boggle-solver$boggle.coverage" NAME="boggle Coverage Results" MODIFIED="1475745946036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/boggle-solver$Unittest_TestBoggle_test_search_grid_for_words.coverage" NAME="Unittest TestBoggle.test_search_grid_for_words Coverage Results" MODIFIED="1475748703352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/boggle-solver$boggle.coverage" NAME="boggle Coverage Results" MODIFIED="1475755405587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/boggle-solver$Unittests_in_TestBoggle.coverage" NAME="Unittests in TestBoggle Coverage Results" MODIFIED="1475745464643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/boggle-solver$Unittest_TestBoggle_test_converting_a_path_to_a_word.coverage" NAME="Unittest TestBoggle.test_converting_a_path_to_a_word Coverage Results" MODIFIED="1475747271365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/boggle-solver$Unittest_TestBoggle_test_grid_size_is_width_times_height.coverage" NAME="Unittest TestBoggle.test_grid_size_is_width_times_height Coverage Results" MODIFIED="1475745482565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/boggle-solver$test_boggle.coverage" NAME="test_boggle Coverage Results" MODIFIED="1475745316156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/boggle-solver$Unittest_TestBoggle_test_neighbours_of_a_position.coverage" NAME="Unittest TestBoggle.test_neighbours_of_a_position Coverage Results" MODIFIED="1475747334890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/boggle-solver$Unittest_TestBoggle_test_Is_This_Thing_On.coverage" NAME="Unittest TestBoggle.test_Is_This_Thing_On Coverage Results" MODIFIED="1475745057814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/boggle-solver$Unittest_TestBoggle_test_grid_is_filled_with_letters.coverage" NAME="Unittest TestBoggle.test_grid_is_filled_with_letters Coverage Results" MODIFIED="1475745859289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/boggle-solver$Unittest_TestBoggle_test_grid_coordinates.coverage" NAME="Unittest TestBoggle.test_grid_coordinates Coverage Results" MODIFIED="1475745724421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/boggle-solver$Unittest_TestBoggle_test_all_grid_neighbours.coverage" NAME="Unittest TestBoggle.test_all_grid_neighbours Coverage Results" MODIFIED="1475747258125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/boggle-solver$Unittests_in_test_boggle.coverage" NAME="Unittests in test_boggle Coverage Results" MODIFIED="1475755208397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/boggle-solver$Unittest_TestBoggle_test_neighbours_of_a_position.coverage" NAME="Unittest TestBoggle.test_neighbours_of_a_position Coverage Results" MODIFIED="1475747334890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/boggle-solver$Unittest_TestBoggle_test_Is_This_Thing_On.coverage" NAME="Unittest TestBoggle.test_Is_This_Thing_On Coverage Results" MODIFIED="1475745057814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/boggle-solver$Unittest_TestBoggle_test_load_dictionary.coverage" NAME="Unittest TestBoggle.test_load_dictionary Coverage Results" MODIFIED="1475749137992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -33,11 +36,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="test_boggle.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test_boggle.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_boggle.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="35" column="45" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
+            <state relative-caret-position="68">
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -45,15 +48,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="boggle.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="boggle.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/boggle.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+            <state relative-caret-position="315">
+              <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
               <folding>
                 <element signature="e#0#34#0" expanded="true" />
               </folding>
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="boggle-solver3.pstat" pinned="false" current-in-tab="false">
+        <entry file="mock://C:\Users\proto\.PyCharm2016.2\system\snapshots\boggle-solver3.pstat">
+          <provider selected="true" editor-type-id="profiler-session-editor">
+            <state />
           </provider>
         </entry>
       </file>
@@ -94,10 +104,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="width" value="1366" />
+    <option name="height" value="728" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -155,8 +163,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
   </component>
-  <component name="RunManager" selected="Python tests.Unittest TestBoggle.test_neighbours_of_a_position">
-    <configuration default="false" name="Unittest TestBoggle.test_grid_is_filled_with_letters" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.boggle">
+    <configuration default="false" name="Unittest TestBoggle.test_neighbours_of_a_position" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -169,7 +177,53 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_boggle.py" />
       <option name="CLASS_NAME" value="TestBoggle" />
-      <option name="METHOD_NAME" value="test_grid_is_filled_with_letters" />
+      <option name="METHOD_NAME" value="test_neighbours_of_a_position" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittest TestBoggle.test_search_grid_for_words" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="boggle-solver" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_boggle.py" />
+      <option name="CLASS_NAME" value="TestBoggle" />
+      <option name="METHOD_NAME" value="test_search_grid_for_words" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittest TestBoggle.test_load_dictionary" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="boggle-solver" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_boggle.py" />
+      <option name="CLASS_NAME" value="TestBoggle" />
+      <option name="METHOD_NAME" value="test_load_dictionary" />
       <option name="FOLDER_NAME" value="" />
       <option name="TEST_TYPE" value="TEST_METHOD" />
       <option name="PATTERN" value="" />
@@ -197,7 +251,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Unittest TestBoggle.test_neighbours_of_a_position" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Unittests in test_boggle" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -209,56 +263,10 @@
       <module name="boggle-solver" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_boggle.py" />
-      <option name="CLASS_NAME" value="TestBoggle" />
-      <option name="METHOD_NAME" value="test_neighbours_of_a_position" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_METHOD" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittest TestBoggle.test_all_grid_neighbours" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="boggle-solver" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_boggle.py" />
-      <option name="CLASS_NAME" value="TestBoggle" />
-      <option name="METHOD_NAME" value="test_all_grid_neighbours" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_METHOD" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittest TestBoggle.test_converting_a_path_to_a_word" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="boggle-solver" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_boggle.py" />
-      <option name="CLASS_NAME" value="TestBoggle" />
-      <option name="METHOD_NAME" value="test_converting_a_path_to_a_word" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
       <option name="PUREUNITTEST" value="true" />
@@ -469,19 +477,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest TestBoggle.test_grid_is_filled_with_letters" />
-      <item index="1" class="java.lang.String" itemvalue="Python.boggle" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest TestBoggle.test_neighbours_of_a_position" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest TestBoggle.test_all_grid_neighbours" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest TestBoggle.test_converting_a_path_to_a_word" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest TestBoggle.test_neighbours_of_a_position" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest TestBoggle.test_search_grid_for_words" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest TestBoggle.test_load_dictionary" />
+      <item index="3" class="java.lang.String" itemvalue="Python.boggle" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in test_boggle" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest TestBoggle.test_neighbours_of_a_position" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest TestBoggle.test_converting_a_path_to_a_word" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest TestBoggle.test_all_grid_neighbours" />
-        <item index="3" class="java.lang.String" itemvalue="Python.boggle" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest TestBoggle.test_grid_is_filled_with_letters" />
+        <item index="0" class="java.lang.String" itemvalue="Python.boggle" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in test_boggle" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest TestBoggle.test_load_dictionary" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest TestBoggle.test_search_grid_for_words" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest TestBoggle.test_neighbours_of_a_position" />
       </list>
     </recent_temporary>
   </component>
@@ -499,48 +507,48 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittest_TestBoggle_test_all_grid_neighbours - 2016.10.06 at 10h 42m 59s.xml">
-      <configuration name="Unittest TestBoggle.test_all_grid_neighbours" configurationId="tests" />
+    <history-entry file="Unittest_TestBoggle_test_load_dictionary - 2016.10.06 at 11h 11m 55s.xml">
+      <configuration name="Unittest TestBoggle.test_load_dictionary" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_TestBoggle_test_all_grid_neighbours - 2016.10.06 at 10h 47m 38s.xml">
-      <configuration name="Unittest TestBoggle.test_all_grid_neighbours" configurationId="tests" />
+    <history-entry file="Unittest_TestBoggle_test_load_dictionary - 2016.10.06 at 11h 13m 43s.xml">
+      <configuration name="Unittest TestBoggle.test_load_dictionary" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_TestBoggle_test_converting_a_path_to_a_word - 2016.10.06 at 10h 47m 51s.xml">
-      <configuration name="Unittest TestBoggle.test_converting_a_path_to_a_word" configurationId="tests" />
+    <history-entry file="Unittest_TestBoggle_test_load_dictionary - 2016.10.06 at 11h 14m 07s.xml">
+      <configuration name="Unittest TestBoggle.test_load_dictionary" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_TestBoggle_test_grid_coordinates - 2016.10.06 at 10h 20m 54s.xml">
-      <configuration name="Unittest TestBoggle.test_grid_coordinates" configurationId="tests" />
+    <history-entry file="Unittest_TestBoggle_test_load_dictionary - 2016.10.06 at 11h 18m 43s.xml">
+      <configuration name="Unittest TestBoggle.test_load_dictionary" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_TestBoggle_test_grid_coordinates - 2016.10.06 at 10h 22m 04s.xml">
-      <configuration name="Unittest TestBoggle.test_grid_coordinates" configurationId="tests" />
+    <history-entry file="Unittest_TestBoggle_test_load_dictionary - 2016.10.06 at 11h 18m 54s.xml">
+      <configuration name="Unittest TestBoggle.test_load_dictionary" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_TestBoggle_test_grid_is_filled_with_letters - 2016.10.06 at 10h 22m 22s.xml">
-      <configuration name="Unittest TestBoggle.test_grid_is_filled_with_letters" configurationId="tests" />
+    <history-entry file="Unittest_TestBoggle_test_load_dictionary - 2016.10.06 at 11h 18m 58s.xml">
+      <configuration name="Unittest TestBoggle.test_load_dictionary" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_TestBoggle_test_grid_is_filled_with_letters - 2016.10.06 at 10h 24m 19s.xml">
-      <configuration name="Unittest TestBoggle.test_grid_is_filled_with_letters" configurationId="tests" />
+    <history-entry file="Unittest_TestBoggle_test_search_grid_for_words - 2016.10.06 at 11h 11m 43s.xml">
+      <configuration name="Unittest TestBoggle.test_search_grid_for_words" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_TestBoggle_test_neighbours_of_a_position - 2016.10.06 at 10h 27m 00s.xml">
-      <configuration name="Unittest TestBoggle.test_neighbours_of_a_position" configurationId="tests" />
+    <history-entry file="Unittests_in_test_boggle - 2016.10.06 at 12h 57m 14s.xml">
+      <configuration name="Unittests in test_boggle" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_TestBoggle_test_neighbours_of_a_position - 2016.10.06 at 10h 29m 29s.xml">
-      <configuration name="Unittest TestBoggle.test_neighbours_of_a_position" configurationId="tests" />
+    <history-entry file="Unittests_in_test_boggle - 2016.10.06 at 12h 59m 05s.xml">
+      <configuration name="Unittests in test_boggle" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_TestBoggle_test_neighbours_of_a_position - 2016.10.06 at 10h 48m 55s.xml">
-      <configuration name="Unittest TestBoggle.test_neighbours_of_a_position" configurationId="tests" />
+    <history-entry file="Unittests_in_test_boggle - 2016.10.06 at 13h 00m 09s.xml">
+      <configuration name="Unittests in test_boggle" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="0" y="0" width="1366" height="728" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25267994" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33781514" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -594,22 +602,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/boggle.py">
+    <entry file="file://$PROJECT_DIR$/test_boggle.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+        <state relative-caret-position="68">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding>
-            <element signature="e#0#34#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_boggle.py">
+    <entry file="file://$PROJECT_DIR$/boggle.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="35" column="45" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
+        <state relative-caret-position="315">
+          <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#0#34#0" expanded="true" />
           </folding>
         </state>
       </provider>
